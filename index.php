@@ -7,6 +7,9 @@
 //git branch -M master
 //git remote add origins https://github.com/arvinalmario/multidimension-array.git
 //git push -u origin master
+//git pull
+//git checkout -b name of branch
+//git push -set-upstream origin name of branch
 
 
 
