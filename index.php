@@ -1,5 +1,16 @@
 <?php
 
+//git init
+//git add .
+//git status
+//git commit -m "commit msg"
+//git branch -M master
+//git remote add origins https://github.com/arvinalmario/multidimension-array.git
+//git push -u origin master
+
+
+
+
 $array1 = []; // 1D
 $array2 = [ [],[] ]; //2D
 $array3 = [ [ [] ], [ [ ] ] ]; //3D
